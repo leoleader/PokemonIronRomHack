@@ -1018,13 +1018,13 @@ LittlerootTown_Text_BirchSomethingToShowYouAtLab:
 
 script LittlerootTown_EventScript_HillSign {
     lockall
-    msgbox("Welcome to the Ironman Challenge!")
+    msgbox("I have hacked the mainframe!")
     releaseall
 }
 
 script LittlerootTown_EventScript_DeadOldGuy {
     lockall
-    msgbox(format("I'm super fucking dead'"))
+    msgbox(format("I'm super dead bruh."))
     releaseall
 }
 

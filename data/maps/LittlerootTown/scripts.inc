@@ -2053,8 +2053,8 @@ LittlerootTown_EventScript_DeadOldGuy::
 
 LittlerootTown_EventScript_HillSign_Text_0:
 # 1021 "data/maps/LittlerootTown/scripts.pory"
-	.string "Welcome to the Ironman Challenge!$"
+	.string "I have hacked the mainframe!$"
 
 LittlerootTown_EventScript_DeadOldGuy_Text_0:
 # 1027 "data/maps/LittlerootTown/scripts.pory"
-	.string "I'm super fucking dead'$"
+	.string "I'm super dead bruh.$"
